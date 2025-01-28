@@ -1,0 +1,27 @@
+{
+  "name": "Aidoku",
+  "identifier": "com.cvv.Aidoku",
+  "apps": [
+    {
+      "name": "Aidoku",
+      "bundleIdentifier": "app.aidoku.Aidoku",
+      "developerName": "Aidoku",
+      "subtitle": "A free and open source manga reading application for iOS and iPadOS.",
+      "version": "0.6.10",
+      "versionDate": "2024-11-08T12:00:00-00:00",
+      "versionDescription": "v0.6.10",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.10/Aidoku.ipa",
+      "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
+      "iconURL": "https://aidoku.app/images/aidoku.svg",
+      "tintColor": "#ffffff",
+      "size": 3354421,
+      "screenshotURLs": [
+        "https://aidoku.app/images/library.png",
+        "https://aidoku.app/images/source.png",
+        "https://aidoku.app/images/reader.png"
+      ]
+    }
+  ],
+  "news": [],
+  "userInfo": {}
+}
