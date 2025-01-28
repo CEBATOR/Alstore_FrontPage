@@ -1,10 +1,10 @@
 {
-  "name": "Aidoku",
+  "name": "Cebator Altstore",
   "identifier": "com.cvv.Aidoku",
   "apps": [
     {
       "name": "Aidoku",
-      "bundleIdentifier": "app.aidoku.Aidoku",
+      "bundleIdentifier": "xyz.skitty.Aidoku",
       "developerName": "Aidoku",
       "subtitle": "A free and open source manga reading application for iOS and iPadOS.",
       "version": "0.6.10",
@@ -13,7 +13,7 @@
       "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.10/Aidoku.ipa",
       "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
       "iconURL": "https://raw.githubusercontent.com/Aidoku/Aidoku/refs/heads/main/Shared/Assets.xcassets/AppIcon.appiconset/Icon.png",
-      "tintColor": "#ff2f52",
+      "tintColor": "#82aa25",
       "size": 3354421,
       "screenshotURLs": [
         "https://aidoku.app/images/library.png",
@@ -22,6 +22,14 @@
       ]
     }
   ],
-  "news": [],
-  "userInfo": {}
+  "news": [
+    {
+      "caption": "Added Aidoku today, not sure if more to come",
+      "date": "2025-01-29",
+      "identifier": "aidoku-release-0610",
+      "notify": true,
+      "tintColor": "#ff2f52",
+      "title": "Aidoku realease 0.6.10"
+    }
+]
 }
