@@ -12,7 +12,7 @@
       "versionDescription": "v0.6.10",
       "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.10/Aidoku.ipa",
       "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
-      "iconURL": "https://github.com/Aidoku/Aidoku/blob/main/Shared/Assets.xcassets/AppIcon.appiconset/Icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Aidoku/Aidoku/refs/heads/main/Shared/Assets.xcassets/AppIcon.appiconset/Icon.png",
       "tintColor": "#ff2f52",
       "size": 3354421,
       "screenshotURLs": [
