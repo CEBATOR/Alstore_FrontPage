@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Aidoku",
-      "bundleIdentifier": "xyz.skitty.Aidoku",
+      "bundleIdentifier": "app.aidoku.Aidoku",
       "developerName": "Aidoku",
       "subtitle": "A free and open source manga reading application for iOS and iPadOS.",
       "version": "0.7.3",
