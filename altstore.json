@@ -1,7 +1,8 @@
 {
   "name": "Cebator Altstore",
   "identifier": "com.cvv.Aidoku",
-  "apps": [{
+  "apps": [
+    {
       "name": "Aidoku",
       "bundleIdentifier": "xyz.skitty.Aidoku",
       "developerName": "Aidoku",
