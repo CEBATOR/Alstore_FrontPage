@@ -28,14 +28,6 @@
       "notify": true,
       "tintColor": "#ff2f52",
       "title": "Aidoku realease 0.6.10"
-    },
-    {
-      "caption": "Added Aidoku today, not sure if more to come",
-      "date": "2025-01-29",
-      "identifier": "aidoku-release-0610",
-      "notify": true,
-      "tintColor": "#ff2f52",
-      "title": "Aidoku realease 0.6.10"
     }
 ]
 }
